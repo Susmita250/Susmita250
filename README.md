@@ -2,7 +2,7 @@
 
 ### Researcher | Plant Breeding & Genetics | Data Analyst
 
-I am a passionate researcher currently focused on **wheat breeding** and **quantitative genetics**. My work involves evaluating phenotypic traits in elite wheat genotypes (14th SATYN) under terminal heat stress in the AFU, Rampur. I am dedicated to using statistical modeling to improve selection accuracy in plant breeding programs.
+I am a researcher currently focused on **wheat breeding** and **quantitative genetics**. My work involves evaluating phenotypic traits in elite wheat genotypes (14th SATYN) under terminal heat stress in the AFU, Rampur.
 ---
 
 ### 🔬 Research Focus
