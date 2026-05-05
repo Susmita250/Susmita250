@@ -18,7 +18,8 @@ I am a passionate researcher currently focused on **wheat breeding** and **quant
 
 ### 📈 Current Projects
 *   **[Visualization of Field Design](https://github.com/Susmita250/Visualization-of-Field-Design-Layout):** Automating plot maps and randomization checks for field trials.
-*   **Wheat Data Analysis:** Developing R workflows for terminal heat stress evaluation.
+*   **[Wheat genetic parameters estimation](https://github.com/Susmita250/Genetic-Parameters-Estimation):**Wheat Data Analysis:** Automating R workflows for genetic parameters estimation and mean comparison of phenotypic traits.
+*   **Multivariate data analysis: **Developing R workflows for multivariate analysis. 
 
 ### 📫 Connect with Me
 *   🔭 I’m currently preparing for PhD opportunities in **Computational Multi-omics**.
