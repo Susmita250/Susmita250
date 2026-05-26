@@ -22,9 +22,8 @@ I am a researcher currently focused on **wheat breeding** and **quantitative gen
 *   **Multivariate data analysis: **Developing R workflows for multivariate analysis. 
 
 ### 📫 Connect with Me
-*   🔭 I’m currently preparing for PhD opportunities in **Computational Multi-omics**.
-*   📍 Based in Nepal.
-*   💬 Ask me about: Wheat research, R programming, or heat load calculation.
+*   📍 Based in Nepal. Gmail: susmitastha250@gmail.com
+
 
 
 
