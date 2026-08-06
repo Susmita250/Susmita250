@@ -8,12 +8,10 @@ I am a researcher currently focused on **wheat breeding** and **quantitative gen
 ### 🔬 Research Focus
 *   **Phenotypic Screening:** Evaluating agro-morphological and yield components under terminal heat stress.
 *   **Quantitative Genetics:** Utilizing multivariate selection indices (**MGIDI**) to improve selection accuracy.
-*   **Environmental Modeling:** Calculating and analyzing heat load metrics to understand terminal heat stress.
-*   **Regression Analysis:** Quantifying the relationship between environmental stressors (Heat Load) and phenotypic traits (Grain Yield, TGW).
 
 ### 💻 Technical Toolkit
 *   **Languages:** R (Expertise in `metan`, `ggplot2`, `biotools`, `dplyr`)
-*   **Analysis:** Field trial design, phenotypic variance partitioning, multivariate analysis, regression modeling, and data visualization.
+*   **Analysis:** Field trial design, phenotypic variance partitioning, multivariate analysis, and data visualization.
 *   **Tools:** Git/GitHub for reproducible research, Microsoft Excel for data management.
 
 ### 📈 Current Projects
